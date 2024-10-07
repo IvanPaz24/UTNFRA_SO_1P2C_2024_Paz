@@ -1,0 +1,4 @@
+Mi IP Pública es: 190.49.85.246
+Mi usuario es osboxes
+El Hash de mi Usuario es: $y$j9T$qhEBRUgELZ6aUXPI0/aEx/$hxyNAbxfwvhkceqg/IHmYlGcZk9dItipuurCa2pA0l9
+La URL de mi repositorio es: git@github.com:IvanPaz24/UTNFRA_SO_1P2C_2024_Paz.git
